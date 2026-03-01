@@ -1,8 +1,7 @@
 # Hi, I'm Marcella 👋
-
+🎓 Software Engineering Student (3rd semester)  
 💻 Frontend Developer in progress  
 📍 Based in Spain  
-🌱 Currently improving JavaScript and building real projects  
 
 ---
 
@@ -10,22 +9,15 @@
 - HTML5
 - CSS3
 - JavaScript
+- Python
+- Git & GitHub (learning)
 
 ---
 
-## 📌 Projects
-🔗 Restaurant Landing Page (coming soon)  
-🔗 JavaScript To-Do App (coming soon)  
-🔗 Personal Portfolio Website (coming soon)  
-
----
-
-## 🎯 2026 Goals
-- Build 5 real-world projects
-- Learn React
-- Get my first remote junior job
-
----
+## 📌 Current Focus
+- Building real-world projects
+- Improving JavaScript fundamentals
+- Preparing for junior developer roles
 
 ## 📫 Contact
 - Email: marcellaoliver2004@gmail.com
