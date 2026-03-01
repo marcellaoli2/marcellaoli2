@@ -9,8 +9,7 @@
 **Frontend**
 - HTML5
 - CSS3
-- JavaScript
-**Programming**
+- JavaScript (ES6+)
 - Python
 - C#
 **Tools**
