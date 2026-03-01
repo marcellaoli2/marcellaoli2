@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Marcella 👋
 
-<!--
-**marcellaoli2/marcellaoli2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Frontend Developer in progress  
+📍 Based in Spain  
+🌱 Currently improving JavaScript and building real projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies
+- HTML5
+- CSS3
+- JavaScript
+
+---
+
+## 📌 Projects
+🔗 Restaurant Landing Page (coming soon)  
+🔗 JavaScript To-Do App (coming soon)  
+🔗 Personal Portfolio Website (coming soon)  
+
+---
+
+## 🎯 2026 Goals
+- Build 5 real-world projects
+- Learn React
+- Get my first remote junior job
+
+---
+
+## 📫 Contact
+- Email: marcellaoliver2004@gmail.com
