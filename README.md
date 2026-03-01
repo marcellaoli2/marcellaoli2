@@ -6,12 +6,17 @@
 ---
 
 ## 🚀 Technologies
+**Frontend**
 - HTML5
 - CSS3
 - JavaScript
+**Programming**
 - Python
-- Git & GitHub (learning)
-
+- C#
+**Tools**
+- Git & GitHub
+- VS Code
+  
 ---
 
 ## 📌 Current Focus
